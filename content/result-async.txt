@@ -1,0 +1,2 @@
+here is the result:Hello this is King Rishi with first text File
+,Hello this is my second Test File.
